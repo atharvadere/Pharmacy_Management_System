@@ -1,0 +1,14 @@
+alvesco	710	80	48	524	none
+budesonide	700	80	45	1225	none
+flovent	709	45	80	527	none
+formoterl	704	80	45	527	none
+halothane	351	150	19	524	sevoflurane
+halothane	701	76	80	227	sevoflurane
+ipratopium	705	70	49	628	none
+isoflurane	352	206	16	324	none
+isoflurane	702	105	40	425	none
+redihaler	708	95	70	428	none
+salbutamol	706	92	60	527	none
+sevoflurane	353	123	63	224	none
+sevoflurane	703	150	70	1124	none
+tiotropium	707	107	48	827	none
